@@ -1,0 +1,16 @@
+{
+	"my-health": {
+		"name": "My Health",
+		"slug": "my-health",
+		"entry_name": "activity",
+		"entries_name": "activities",
+		"description": "Fitness activity tracker",
+		"private": true,
+		"icon": "🤸",
+		"color": "#006570",
+		"storage_type": "",
+		"storage": "",
+		"custom_css": "",
+		"charts_placement": ""
+	}
+}
