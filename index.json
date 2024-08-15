@@ -1,10 +1,10 @@
 {
-	"my-health": {
-		"name": "My Health",
-		"slug": "my-health",
+	"my-fitness": {
+		"name": "My Fitness",
+		"slug": "my-fitness",
 		"entry_name": "activity",
 		"entries_name": "activities",
-		"description": "Fitness activity tracker",
+		"description": "activity tracker",
 		"private": true,
 		"icon": "🤸",
 		"color": "#006570",
