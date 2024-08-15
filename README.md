@@ -1,3 +1,3 @@
 # My lifesheets
 
-- [🤸 My Health](my-health): Fitness activity tracker
+- [🤸 My Fitness](my-fitness): activity tracker
